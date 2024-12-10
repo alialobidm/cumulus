@@ -1,0 +1,1 @@
+searchState.loadedDescShard("cumulus_pallet_session_benchmarking", 0, "Benchmarking setup for pallet-session")

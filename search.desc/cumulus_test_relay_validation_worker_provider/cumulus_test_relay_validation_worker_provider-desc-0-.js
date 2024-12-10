@@ -1,0 +1,1 @@
+searchState.loadedDescShard("cumulus_test_relay_validation_worker_provider", 0, "Provides the <code>VALIDATION_WORKER</code> for integration tests in …\nThe path to the validation worker.")
